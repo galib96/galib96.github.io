@@ -7,11 +7,11 @@ first_name: Galib
 middle_name: Hassan
 last_name: Khan
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website
 footer_text: >
-  (C) 2025 Galib Hassan Khan, All Rights Reserved.
+  All Rights Reserved.
   Powered by ai-folio and hosted on github-pages.
 keywords: Machine Learning, Deep Learning, Computational Biology, Energy, Strain Design, Chemical Engineering, Process Modeling, Modular cell design, Microbial community design, Metabolic engineering, Protein design, systems biology # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Born and raised in Bangladesh, I am currently pursuing my Ph.D. in chemical engineering at the University of Tennnessee, Knoxville. I obtained my M.S. in chemical engineering from the same university in 2024. 
+Born and raised in Bangladesh, I am currently pursuing my Ph.D. in chemical engineering at the University of Tennessee, Knoxville. I obtained my M.S. in chemical engineering from the same university in 2024. 
 
 Before that, I completed my B.Sc. in chemical engineering from Bangladesh University of Engineering and Technology in 2019. The same year, I cofounded an edtech startup named "Bohubrihi" with the aim of providing professional technical education in Bengali. I took my exit during its acquisition by Shikho in late 2021. I joined iccdr,b and worked on reducing air polution in brick manufacturing industry in Bangladesh. 
