@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Born and raised in Bangladesh, I am currently pursuing my Ph.D. in chemical engineering at the University of Tennnessee, Knoxville. I obtained my M.S. in chemical engineering from the same university in 2024. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before that, I completed my B.Sc. in chemical engineering from Bangladesh University of Engineering and Technology in 2019. The same year, I cofounded an edtech startup named "Bohubrihi" with the aim of providing professional technical education in Bengali. I took my exit during its acquisition by Shikho in late 2021. I joined iccdr,b and worked on reducing air polution in brick manufacturing industry in Bangladesh. 
