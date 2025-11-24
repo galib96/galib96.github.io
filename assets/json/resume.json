@@ -37,7 +37,7 @@
       "name": "University of Tennessee, Knoxville",
       "position": "Graduate Research Assistant",
       "url": "https://www.utk.edu",
-      "startDate": "2022-08-01",
+      "startDate": "2023-01-01",
       "endDate": "",
       "summary": "Developing computational tools for metabolic network modeling and analysis. Applying machine learning techniques to biological systems. Working on modular cell design and microbial community optimization.",
       "highlights": [
@@ -49,7 +49,7 @@
     },
     {
       "name": "International Centre for Diarrhoeal Disease Research, Bangladesh (iccdr,b)",
-      "position": "Data Science Consultant",
+      "position": "Research Officer",
       "url": "https://www.icddrb.org",
       "startDate": "2022-01-01",
       "endDate": "2022-07-01",
@@ -57,21 +57,12 @@
       "highlights": ["Environmental data analysis", "Statistical modeling", "Air pollution mitigation"]
     },
     {
-      "name": "Shikho",
-      "position": "Data Scientist",
-      "url": "https://shikho.com",
-      "startDate": "2021-11-01",
-      "endDate": "2022-07-01",
-      "summary": "Continued contributing to educational technology after Bohubrihi acquisition. Developed machine learning models for personalized learning.",
-      "highlights": ["Machine learning", "Educational technology", "Data analysis"]
-    },
-    {
       "name": "Bohubrihi",
-      "position": "Co-Founder & Chief Technology Officer",
+      "position": "Co-Founder & Chairman",
       "url": "",
       "startDate": "2019-06-01",
       "endDate": "2021-10-01",
-      "summary": "Co-founded an edtech startup providing professional technical education in Bengali. Led technology development and platform architecture. Successfully exited through acquisition by Shikho in 2021.",
+      "summary": "Co-founded an edtech startup providing professional technical education in Bengali. Led strategic direction and organizational growth. Successfully exited through acquisition by Shikho in 2021.",
       "highlights": [
         "EdTech platform development",
         "Reached 70,000+ students",
@@ -224,6 +215,8 @@
       "keywords": [
         "Metabolic Engineering",
         "Synthetic Biology",
+        "Machine Learning",
+        "Multi-objective Optimization",
         "Machine Learning in Biology",
         "Modular Cell Design",
         "Microbial Community Design",

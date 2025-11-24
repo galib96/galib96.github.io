@@ -13,14 +13,14 @@
   contents:
     - title: Ph.D. in Chemical Engineering
       institution: University of Tennessee, Knoxville, TN, USA
-      year: 2022 - Present
+      year: 2023 - Present
       description:
         - Focus on computational biology and metabolic engineering
         - Research areas include metabolic network modeling, machine learning applications in systems biology, and modular cell design
         - Developing computational tools for microbial community design and optimization
     - title: M.S. in Chemical Engineering
       institution: University of Tennessee, Knoxville, TN, USA
-      year: 2022 - 2024
+      year: 2023 - 2024
       description:
         - Specialized in computational approaches to metabolic engineering
         - Thesis work on metabolic network modeling and optimization
@@ -36,34 +36,27 @@
   contents:
     - title: Graduate Research Assistant
       institution: University of Tennessee, Knoxville, TN, USA
-      year: 2022 - Present
+      year: 2023 - Present
       description:
         - Developing computational tools for metabolic network modeling and analysis
         - Applying machine learning techniques to biological systems
         - Working on modular cell design and microbial community optimization
         - Conducting omics data analysis and integration
-    - title: Data Science Consultant
+    - title: Research Officer
       institution: International Centre for Diarrhoeal Disease Research, Bangladesh (iccdr,b), Dhaka, Bangladesh
       year: 2022
       description:
         - Worked on environmental health projects focused on air pollution reduction
         - Analyzed data from brick manufacturing industry to develop pollution mitigation strategies
         - Applied statistical modeling and data analysis techniques
-    - title: Co-Founder & Chief Technology Officer
+    - title: Co-Founder & Chairman
       institution: Bohubrihi, Dhaka, Bangladesh
       year: 2019 - 2021
       description:
         - Co-founded an edtech startup providing professional technical education in Bengali
-        - Led technology development and platform architecture
+        - Led strategic direction and organizational growth
         - Developed data science and machine learning courses
         - Successfully exited through acquisition by Shikho in 2021
-    - title: Data Scientist
-      institution: Shikho, Dhaka, Bangladesh
-      year: 2021 - 2022
-      description:
-        - Continued contributing to educational technology after Bohubrihi acquisition
-        - Developed machine learning models for personalized learning
-        - Worked on data analysis and product optimization
 
 - title: Technical Skills
   type: nested_list
@@ -91,6 +84,18 @@
 - title: Research Interests
   type: nested_list
   contents:
+    - title: Machine Learning
+      items:
+        - Machine learning applications in biology
+        - Deep learning for biological systems
+        - Optimization algorithms
+        - Feature engineering and data analysis
+    - title: Multi-objective Optimization
+      items:
+        - Multi-objective optimization frameworks
+        - Bioprocess optimization
+        - Resource allocation strategies
+        - Pareto optimization in biological systems
     - title: Metabolic Engineering
       items:
         - Metabolic network modeling and analysis
@@ -99,7 +104,6 @@
         - Pathway engineering
     - title: Computational Biology
       items:
-        - Machine learning applications in biology
         - Multi-omics data integration
         - Systems biology approaches
         - Protein design and engineering
