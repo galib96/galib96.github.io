@@ -1,200 +1,234 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Galib Hassan Khan",
+    "label": "PhD Student in Chemical Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "galibhkhan@gmail.com",
+    "phone": "",
+    "url": "https://galibhassankhan.com/",
+    "summary": "PhD student in Chemical Engineering at the University of Tennessee, Knoxville, specializing in metabolic network modeling, machine learning applications in systems biology, and computational approaches to metabolic engineering and modular cell design.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1417 White Avenue",
+      "postalCode": "TN 37996",
+      "city": "Knoxville",
       "countryCode": "US",
-      "region": "California"
+      "region": "Tennessee"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "galibhassankhan693",
+        "url": "https://linkedin.com/in/galibhassankhan693"
+      },
+      {
+        "network": "GitHub",
+        "username": "galib96",
+        "url": "https://github.com/galib96"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Galib Hassan Khan",
+        "url": "https://scholar.google.com/citations?user=WCvzjbgAAAAJ"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of Tennessee, Knoxville",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.utk.edu",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "summary": "Developing computational tools for metabolic network modeling and analysis. Applying machine learning techniques to biological systems. Working on modular cell design and microbial community optimization.",
+      "highlights": [
+        "Metabolic network modeling",
+        "Machine learning applications in biology",
+        "Modular cell design",
+        "Omics data analysis"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "International Centre for Diarrhoeal Disease Research, Bangladesh (iccdr,b)",
+      "position": "Data Science Consultant",
+      "url": "https://www.icddrb.org",
+      "startDate": "2022-01-01",
+      "endDate": "2022-07-01",
+      "summary": "Worked on environmental health projects focused on air pollution reduction. Analyzed data from brick manufacturing industry to develop pollution mitigation strategies.",
+      "highlights": ["Environmental data analysis", "Statistical modeling", "Air pollution mitigation"]
+    },
+    {
+      "name": "Shikho",
+      "position": "Data Scientist",
+      "url": "https://shikho.com",
+      "startDate": "2021-11-01",
+      "endDate": "2022-07-01",
+      "summary": "Continued contributing to educational technology after Bohubrihi acquisition. Developed machine learning models for personalized learning.",
+      "highlights": ["Machine learning", "Educational technology", "Data analysis"]
+    },
+    {
+      "name": "Bohubrihi",
+      "position": "Co-Founder & Chief Technology Officer",
+      "url": "",
+      "startDate": "2019-06-01",
+      "endDate": "2021-10-01",
+      "summary": "Co-founded an edtech startup providing professional technical education in Bengali. Led technology development and platform architecture. Successfully exited through acquisition by Shikho in 2021.",
+      "highlights": [
+        "EdTech platform development",
+        "Reached 70,000+ students",
+        "Data science course creation",
+        "Successful exit through acquisition"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "University of Tennessee, Knoxville",
+      "location": "Knoxville, TN, USA",
+      "url": "https://www.utk.edu/",
+      "area": "Chemical Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Metabolic network modeling",
+        "Synthetic biology",
+        "Machine learning applications in biology",
+        "Systems biology"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "University of Tennessee, Knoxville",
+      "location": "Knoxville, TN, USA",
+      "url": "https://www.utk.edu/",
+      "area": "Chemical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2022-08-01",
+      "endDate": "2024-05-01",
+      "score": "",
+      "courses": ["Computational biology", "Metabolic engineering"]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.buet.ac.bd/",
+      "area": "Chemical Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2015-03-01",
+      "endDate": "2019-06-01",
+      "score": "",
+      "courses": ["Process modeling", "Machine learning", "Chemical process simulation"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Smart culture medium optimization for recombinant protein production: Experimental, modeling, and AI/ML-driven strategies",
+      "publisher": "Biotechnology Advances",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1016/j.biotechadv.2024.108738",
+      "summary": "This comprehensive review explores the integration of experimental approaches, mathematical modeling, and artificial intelligence/machine learning strategies for optimizing culture medium in recombinant protein production."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A Multi-Objective Optimization Framework for Scalable Biomanufacturing through Modular Cell Design and Resource Allocation",
+      "publisher": "2025 AIChE Annual Meeting",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": "A novel multi-objective optimization framework for scalable biomanufacturing that leverages modular cell design principles and optimal resource allocation strategies."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Room Occupancy Detection from Temperature, Light, Humidity, and Carbon Dioxide Measurements Using Deep Learning",
+      "publisher": "2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)",
+      "releaseDate": "2021-02-01",
+      "url": "https://doi.org/10.1109/ic4me253898.2021.9768582",
+      "summary": "A deep learning approach for room occupancy detection using environmental sensor data including temperature, light, humidity, and carbon dioxide measurements."
+    },
+    {
+      "name": "Modeling Thermodynamic and Kinetic Simulation of Hydrogen Production from Dry Reforming of Natural Gas",
+      "publisher": "2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)",
+      "releaseDate": "2021-02-01",
+      "url": "https://doi.org/10.1109/ic4me253898.2021.9768458",
+      "summary": "Thermodynamic and kinetic modeling of hydrogen production through dry reforming of natural gas, investigating reaction mechanisms and optimization strategies."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming & Tools",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)",
+        "MATLAB",
+        "R",
+        "COBRA Toolbox",
+        "COBRApy",
+        "Git",
+        "Linux/Unix"
       ]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Deep Learning",
+        "Neural Networks",
+        "Optimization Algorithms",
+        "Feature Engineering"
+      ]
+    },
+    {
+      "name": "Computational Biology",
+      "level": "Advanced",
+      "icon": "fa-solid fa-dna",
+      "keywords": [
+        "Metabolic Network Modeling",
+        "Flux Balance Analysis",
+        "Genome-Scale Metabolic Models",
+        "Omics Data Analysis",
+        "Systems Biology"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Deep Learning Specialization",
+      "date": "2020",
+      "issuer": "DeepLearning.AI (Coursera)",
+      "url": "https://www.coursera.org/specializations/deep-learning",
+      "icon": "fa-solid fa-brain"
+    },
+    {
+      "name": "IBM Data Science Professional Certificate",
+      "date": "2019",
+      "issuer": "IBM (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+      "icon": "fa-solid fa-chart-line"
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Bengali",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research Interests",
+      "icon": "fa-solid fa-flask",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Metabolic Engineering",
+        "Synthetic Biology",
+        "Machine Learning in Biology",
+        "Modular Cell Design",
+        "Microbial Community Design",
+        "Multi-omics Data Integration"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }

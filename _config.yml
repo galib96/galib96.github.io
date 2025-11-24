@@ -9,8 +9,8 @@ last_name: Khan
 contact_note: >
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student in Chemical Engineering at the University of Tennessee, Knoxville. 
-  Research focus on metabolic network modeling, machine learning applications in systems biology, 
+  PhD student in Chemical Engineering at the University of Tennessee, Knoxville.
+  Research focus on metabolic network modeling, machine learning applications in systems biology,
   and computational approaches to metabolic engineering and modular cell design.
 footer_text: >
   All Rights Reserved.
@@ -20,7 +20,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://galib96.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -629,11 +629,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
   - skills
+  - certificates
   - languages
   - interests
-  - references
+  # - projects # Disabled - no content yet
+  # - volunteer # Disabled - no content yet
+  # - awards # Disabled - no content yet
+  # - references # Disabled - no content yet
