@@ -9,11 +9,13 @@ last_name: Khan
 contact_note: >
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website
+  PhD student in Chemical Engineering at the University of Tennessee, Knoxville. 
+  Research focus on metabolic network modeling, machine learning applications in systems biology, 
+  and computational approaches to metabolic engineering and modular cell design.
 footer_text: >
   All Rights Reserved.
   Powered by ai-folio and hosted on github-pages.
-keywords: Machine Learning, Deep Learning, Computational Biology, Energy, Strain Design, Chemical Engineering, Process Modeling, Modular cell design, Microbial community design, Metabolic engineering, Protein design, systems biology # add your own keywords or leave empty
+keywords: Machine Learning, Deep Learning, Computational Biology, Metabolic Engineering, Systems Biology, Metabolic Network Modeling, Modular Cell Design, Microbial Community Design, Strain Design, Chemical Engineering, Process Modeling, Protein Design, Omics Data Analysis, Flux Balance Analysis # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
