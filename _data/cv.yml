@@ -112,11 +112,79 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2022 - Present
       items:
         - Graduate Research Assistantship, University of Tennessee, Knoxville
+    - year: 2015 - 2019
+      items:
+        - Dean's List, Bangladesh University of Engineering and Technology
+
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Khan, G., Sanford, C., & Trinh, C. T. (2025). Smart culture medium optimization for recombinant protein production: Experimental, modeling, and AI/ML-driven strategies. <i>Biotechnology Advances</i>, 108738."
+        - "Khan, G. H., & Trinh, C. T. (2025). A Multi-Objective Optimization Framework for Scalable Biomanufacturing through Modular Cell Design and Resource Allocation. <i>2025 AIChE Annual Meeting</i>."
+    - year: 2021
+      items:
+        - "Khan, G. H., & Rahman, M. A. (2021). Room Occupancy Detection from Temperature, Light, Humidity, and Carbon Dioxide Measurements Using Deep Learning. <i>2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)</i>, IEEE."
+        - "Ahmed, M. G. T., Siddiki, S. Y. A., Khan, G. H., Kabir, K. B., & Kirtania, K. (2021). Modeling Thermodynamic and Kinetic Simulation of Hydrogen Production from Dry Reforming of Natural Gas. <i>2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)</i>, IEEE."
+
+- title: Academic Projects
+  type: time_table
+  contents:
+    - title: Metabolic Network Modeling for Strain Design
+      year: 2022 - Present
+      description:
+        - Developing computational frameworks for metabolic pathway optimization
+        - Implementing machine learning models for predicting metabolic flux distributions
+        - Creating tools for automated strain design and evaluation
+    - title: Deep Learning for Environmental Sensing
+      year: 2020 - 2021
+      description:
+        - Developed neural network models for room occupancy prediction
+        - Achieved high accuracy in real-time occupancy detection using sensor data
+        - Published results at IEEE IC4ME2 Conference
+
+- title: Teaching & Mentoring
+  type: nested_list
+  contents:
+    - title: Teaching Assistant, University of Tennessee, Knoxville
+      items:
+        - "CBE 350: Chemical and Bioengineering Reactor Fundamentals - Fall 2023, Fall 2024, Fall 2025"
+        - "CBE 555: Elements of Synthetic Biology and Metabolic Engineering - Spring 2025"
+        - Conducted recitation sessions and office hours for undergraduate and graduate students
+        - Graded assignments, exams, and provided detailed feedback
+        - Assisted in developing course materials and laboratory demonstrations
+    - title: Course Development, Bohubrihi
+      items:
+        - Developed and delivered comprehensive data science courses in Bengali
+        - Created educational content for machine learning and programming courses
+        - Designed curriculum for professional technical education
+    - title: Mentoring
+      items:
+        - Mentored students in data science and machine learning projects
+        - Guided junior developers in software development best practices
+        - Provided career guidance for students pursuing computational biology
+
+- title: Certifications & Training
+  type: time_table
+  contents:
+    - year: 2020 - 2021
+      items:
+        - Advanced courses in Machine Learning and Deep Learning
+        - Training in Computational Systems Biology
+        - Professional development in Software Engineering
+
+- title: Professional Affiliations
+  type: list
+  contents:
+    - American Institute of Chemical Engineers (AIChE)
+    - IEEE (Institute of Electrical and Electronics Engineers)
 
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Reading, Technology, Entrepreneurship, Education
+    - <u>Community Service:</u> Educational technology initiatives, STEM education advocacy
