@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum Vitae - PhD Student in Chemical Engineering at the University of Tennessee, Knoxville, specializing in metabolic network modeling, synthetic biology, and AI/ML applications in biotechnology.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
