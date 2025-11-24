@@ -6,7 +6,7 @@
     "email": "galibhkhan@gmail.com",
     "phone": "",
     "url": "https://galibhassankhan.com/",
-    "summary": "PhD student in Chemical Engineering at the University of Tennessee, Knoxville, specializing in metabolic network modeling, machine learning applications in systems biology, and computational approaches to metabolic engineering and modular cell design.",
+    "summary": "PhD student in Chemical Engineering at the University of Tennessee, Knoxville (started January 2023), specializing in metabolic network modeling, machine learning applications in systems biology, multi-objective optimization, and computational approaches to metabolic engineering and modular cell design. Completed M.S. in December 2024.",
     "location": {
       "address": "1417 White Avenue",
       "postalCode": "TN 37996",
@@ -51,8 +51,8 @@
       "name": "International Centre for Diarrhoeal Disease Research, Bangladesh (iccdr,b)",
       "position": "Research Officer",
       "url": "https://www.icddrb.org",
-      "startDate": "2022-01-01",
-      "endDate": "2022-07-01",
+      "startDate": "2021-11-01",
+      "endDate": "2022-05-30",
       "summary": "Worked on environmental health projects focused on air pollution reduction. Analyzed data from brick manufacturing industry to develop pollution mitigation strategies.",
       "highlights": ["Environmental data analysis", "Statistical modeling", "Air pollution mitigation"]
     },
@@ -60,8 +60,8 @@
       "name": "Bohubrihi",
       "position": "Co-Founder & Chairman",
       "url": "",
-      "startDate": "2019-06-01",
-      "endDate": "2021-10-01",
+      "startDate": "2019-05-01",
+      "endDate": "2021-10-30",
       "summary": "Co-founded an edtech startup providing professional technical education in Bengali. Led strategic direction and organizational growth. Successfully exited through acquisition by Shikho in 2021.",
       "highlights": [
         "EdTech platform development",
@@ -78,7 +78,7 @@
       "url": "https://www.utk.edu/",
       "area": "Chemical Engineering",
       "studyType": "Ph.D.",
-      "startDate": "2022-08-01",
+      "startDate": "2023-01-01",
       "endDate": "",
       "score": "",
       "courses": [
@@ -94,8 +94,8 @@
       "url": "https://www.utk.edu/",
       "area": "Chemical Engineering",
       "studyType": "M.S.",
-      "startDate": "2022-08-01",
-      "endDate": "2024-05-01",
+      "startDate": "2023-01-01",
+      "endDate": "2024-12-14",
       "score": "",
       "courses": ["Computational biology", "Metabolic engineering"]
     },
@@ -105,8 +105,8 @@
       "url": "https://www.buet.ac.bd/",
       "area": "Chemical Engineering",
       "studyType": "B.Sc.",
-      "startDate": "2015-03-01",
-      "endDate": "2019-06-01",
+      "startDate": "2015-02-14",
+      "endDate": "2019-04-28",
       "score": "",
       "courses": ["Process modeling", "Machine learning", "Chemical process simulation"]
     }
